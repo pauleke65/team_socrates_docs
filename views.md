@@ -1,2 +1,0 @@
-# Views
-*something about views*
